@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/csgoprocrosshair/static/css/main.ecc70d23.chunk.css",
+    "main.js": "/csgoprocrosshair/static/js/main.388dbd44.chunk.js",
+    "main.js.map": "/csgoprocrosshair/static/js/main.388dbd44.chunk.js.map",
+    "runtime-main.js": "/csgoprocrosshair/static/js/runtime-main.b1512fc3.js",
+    "runtime-main.js.map": "/csgoprocrosshair/static/js/runtime-main.b1512fc3.js.map",
+    "static/js/2.7ee8c4d0.chunk.js": "/csgoprocrosshair/static/js/2.7ee8c4d0.chunk.js",
+    "static/js/2.7ee8c4d0.chunk.js.map": "/csgoprocrosshair/static/js/2.7ee8c4d0.chunk.js.map",
+    "index.html": "/csgoprocrosshair/index.html",
+    "precache-manifest.e8fdcd33070fa899f17fbd55f172c2aa.js": "/csgoprocrosshair/precache-manifest.e8fdcd33070fa899f17fbd55f172c2aa.js",
+    "service-worker.js": "/csgoprocrosshair/service-worker.js",
+    "static/css/main.ecc70d23.chunk.css.map": "/csgoprocrosshair/static/css/main.ecc70d23.chunk.css.map",
+    "static/js/2.7ee8c4d0.chunk.js.LICENSE.txt": "/csgoprocrosshair/static/js/2.7ee8c4d0.chunk.js.LICENSE.txt",
+    "static/media/matthew.png": "/csgoprocrosshair/static/media/matthew.046e91f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1512fc3.js",
+    "static/js/2.7ee8c4d0.chunk.js",
+    "static/css/main.ecc70d23.chunk.css",
+    "static/js/main.388dbd44.chunk.js"
+  ]
+}
