@@ -32,7 +32,7 @@ export class HomePage extends Component {
                 <Accordion fluid styled>
                     {temp}
                 </Accordion>
-                <GithubCorner href="https://google.com" />
+                <GithubCorner href="https://github.com/MA3VE/csgoprocrosshair" />
             </div>
         );
     }
