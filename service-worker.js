@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/csgoprocrosshair/precache-manifest.e8fdcd33070fa899f17fbd55f172c2aa.js"
+  "/csgoprocrosshair/precache-manifest.98888f57f8990c9537fd56c0420540bb.js"
 );
 
 self.addEventListener('message', (event) => {

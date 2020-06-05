@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "538a51977d4d4106a886a4054333eb77",
+    "revision": "6b2bc8cae8f60b403b34e684dfebbac9",
     "url": "/csgoprocrosshair/index.html"
   },
   {
